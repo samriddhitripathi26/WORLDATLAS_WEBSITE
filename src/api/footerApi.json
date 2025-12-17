@@ -1,0 +1,17 @@
+[
+  {
+    "icon": "MdPlace",
+    "title": "Find us",
+    "details": "Delhi,India"
+  },
+  {
+    "icon": "IoCallSharp",
+    "title": "Call us",
+    "details": "9650800775"
+  },
+  {
+    "icon": "TbMailPlus",
+    "title": "Mail us",
+    "details": "samriddhitripathi26@gmail.com"
+  }
+]
